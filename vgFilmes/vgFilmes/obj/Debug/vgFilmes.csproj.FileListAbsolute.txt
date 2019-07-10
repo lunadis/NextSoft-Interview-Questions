@@ -1,0 +1,11 @@
+C:\Users\Lopes-pc\source\repos\vgFilmes\vgFilmes\bin\Debug\vgFilmes.exe.config
+C:\Users\Lopes-pc\source\repos\vgFilmes\vgFilmes\bin\Debug\vgFilmes.exe
+C:\Users\Lopes-pc\source\repos\vgFilmes\vgFilmes\bin\Debug\vgFilmes.pdb
+C:\Users\Lopes-pc\source\repos\vgFilmes\vgFilmes\obj\Debug\vgFilmes.csprojAssemblyReference.cache
+C:\Users\Lopes-pc\source\repos\vgFilmes\vgFilmes\obj\Debug\vgFilmes.Properties.Resources.resources
+C:\Users\Lopes-pc\source\repos\vgFilmes\vgFilmes\obj\Debug\vgFilmes.csproj.GenerateResource.cache
+C:\Users\Lopes-pc\source\repos\vgFilmes\vgFilmes\obj\Debug\vgFilmes.csproj.CoreCompileInputs.cache
+C:\Users\Lopes-pc\source\repos\vgFilmes\vgFilmes\obj\Debug\vgFilmes.exe
+C:\Users\Lopes-pc\source\repos\vgFilmes\vgFilmes\obj\Debug\vgFilmes.pdb
+C:\Users\Lopes-pc\source\repos\vgFilmes\vgFilmes\obj\Debug\vgFilmes.Form1.resources
+C:\Users\Lopes-pc\source\repos\vgFilmes\vgFilmes\obj\Debug\vgFilmes.adicionarfilme.resources
