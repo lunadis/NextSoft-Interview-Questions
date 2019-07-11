@@ -1,0 +1,10 @@
+C:\Users\Lopes-pc\source\repos\Idade\Idade\bin\Debug\Idade.exe.config
+C:\Users\Lopes-pc\source\repos\Idade\Idade\bin\Debug\Idade.exe
+C:\Users\Lopes-pc\source\repos\Idade\Idade\bin\Debug\Idade.pdb
+C:\Users\Lopes-pc\source\repos\Idade\Idade\obj\Debug\Idade.csprojAssemblyReference.cache
+C:\Users\Lopes-pc\source\repos\Idade\Idade\obj\Debug\Idade.Form1.resources
+C:\Users\Lopes-pc\source\repos\Idade\Idade\obj\Debug\Idade.Properties.Resources.resources
+C:\Users\Lopes-pc\source\repos\Idade\Idade\obj\Debug\Idade.csproj.GenerateResource.cache
+C:\Users\Lopes-pc\source\repos\Idade\Idade\obj\Debug\Idade.csproj.CoreCompileInputs.cache
+C:\Users\Lopes-pc\source\repos\Idade\Idade\obj\Debug\Idade.exe
+C:\Users\Lopes-pc\source\repos\Idade\Idade\obj\Debug\Idade.pdb

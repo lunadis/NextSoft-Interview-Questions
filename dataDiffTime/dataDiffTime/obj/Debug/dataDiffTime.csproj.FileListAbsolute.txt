@@ -1,0 +1,10 @@
+C:\Users\Lopes-pc\source\repos\dataDiffTime\dataDiffTime\bin\Debug\dataDiffTime.exe.config
+C:\Users\Lopes-pc\source\repos\dataDiffTime\dataDiffTime\bin\Debug\dataDiffTime.exe
+C:\Users\Lopes-pc\source\repos\dataDiffTime\dataDiffTime\bin\Debug\dataDiffTime.pdb
+C:\Users\Lopes-pc\source\repos\dataDiffTime\dataDiffTime\obj\Debug\dataDiffTime.csprojAssemblyReference.cache
+C:\Users\Lopes-pc\source\repos\dataDiffTime\dataDiffTime\obj\Debug\dataDiffTime.Form1.resources
+C:\Users\Lopes-pc\source\repos\dataDiffTime\dataDiffTime\obj\Debug\dataDiffTime.Properties.Resources.resources
+C:\Users\Lopes-pc\source\repos\dataDiffTime\dataDiffTime\obj\Debug\dataDiffTime.csproj.GenerateResource.cache
+C:\Users\Lopes-pc\source\repos\dataDiffTime\dataDiffTime\obj\Debug\dataDiffTime.csproj.CoreCompileInputs.cache
+C:\Users\Lopes-pc\source\repos\dataDiffTime\dataDiffTime\obj\Debug\dataDiffTime.exe
+C:\Users\Lopes-pc\source\repos\dataDiffTime\dataDiffTime\obj\Debug\dataDiffTime.pdb
